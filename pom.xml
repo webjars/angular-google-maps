@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-google-maps</artifactId>
-    <version>1.2.1-SNAPSHOT</version>
+    <version>1.2.0-1-SNAPSHOT</version>
     <name>angular-google-maps</name>
     <description>WebJar for angular-google-maps</description>
     <url>http://webjars.org</url>
