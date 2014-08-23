@@ -25,11 +25,9 @@
             {
                 "paths": {
                     "angular-google-maps": "angular-google-maps"
-                    "lodash-undersore": "lodash.undersore"
                 },
                 "shim": {
-                    "angular-google-maps": ["angularjs"]
-                    "lodash-undersore": ["lodash.underscore"]
+                    "angular-google-maps": ["angularjs", "lodash-underscore"]
                 }
             }
         </requirejs>
